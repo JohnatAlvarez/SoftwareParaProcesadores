@@ -3,7 +3,7 @@
  * 
  * - Johnatan David Alvarez Vera
  * - Leonardo José Viana De Avila
- * 
+ * - A partir de c+odigo guia proporcionado por Ing. Juan Carlos Giraldo Crvajar Ph.D
  * SOFTWARE PARA PROCESADORES 
  */
 
